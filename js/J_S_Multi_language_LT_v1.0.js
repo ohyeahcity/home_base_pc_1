@@ -110,9 +110,9 @@ function changeImageByLang(lang_index){
   var eng_img1_src="images/pcstick_banner_v2_0808_eng.jpg";
   var jp_img1_src="images/pcstick_banner_v2_0808.jpg";
 
-  var tw_img2_src="images/pcstick_banner_v1_0808.jpg";
-  var eng_img2_src="images/pcstick_banner_v1_0808_eng.jpg";
-  var jp_img2_src="images/pcstick_banner_v1_0808.jpg";
+  // var tw_img2_src="images/pcstick_banner_v1_0808.jpg";
+  // var eng_img2_src="images/pcstick_banner_v1_0808_eng.jpg";
+  // var jp_img2_src="images/pcstick_banner_v1_0808.jpg";
 
   //var tw_img3_src="images/slider_example_3_tw.jpg";
   //var eng_img3_src="images/slider_example_3_eng.jpg";
