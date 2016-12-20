@@ -17,8 +17,8 @@
       "lang_iot_content": "與EQL產品結合，直接聲控智能家電",
       "lang_photo_title": "全家的歡樂時光都放這",
       "lang_photo_content": "輕鬆打造個人雲 家庭專屬檔案伺服器",
-      "lang_movie_title": "Home Theater",
-      "lang_movie_content": "電影院就在你家 VIP放映廳 與家人共度歡樂時光",
+      "lang_movie_title": "電影院就在你家",
+      "lang_movie_content": "VIP放映廳 與家人共度歡樂時光",
       "lang_PLEX_left_title": "內建劇院級跨平台影音播放軟體",
       "lang_PLEX_right_title": "PC上你最值得信任的NAS軟體",
 
@@ -58,7 +58,7 @@
       "lang_APPLIC_title": "Home entertainment / Daily work / Meeting projection",
 
       "lang_iot_title":"IoT Applications",
-      "lang_iot_content": "Compatible with EQLink IoT Ecosystem.",
+      "lang_iot_content": "Compatible with EQLink IoT Ecosystem",
       "lang_photo_title": "Home NAS",
       "lang_photo_content": "Home Media Server & Private Cloud Solution",
       "lang_movie_title": "Home Theater",
