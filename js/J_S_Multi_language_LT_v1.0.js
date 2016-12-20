@@ -108,10 +108,13 @@ function changeImageByLang(lang_index){
   console.log("change image function start now");
   var tw_img1_src="images/pcstick_banner_v2_0808.jpg";
   var eng_img1_src="images/pcstick_banner_v2_0808_eng.jpg";
-  var jp_img1_src="images/pcstick_banner_v2_0808.jpg";
+  // var jp_img1_src="images/pcstick_banner_v2_0808.jpg";
 
   var tw_img2_src="images/displayport.jpg";
   var eng_img2_src="images/displayport_eng.jpg";
+
+  var tw_img3_src="images/displayport_min.jpg";
+  var eng_img3_src="images/displayport_min_eng.jpg";
 
 
   //var tw_img3_src="images/slider_example_3_tw.jpg";
@@ -122,11 +125,13 @@ function changeImageByLang(lang_index){
     case 0:
         document.getElementById('slideshowImage1').src=tw_img1_src;
         document.getElementById('lang_port').src=tw_img2_src;
+        document.getElementById('lang_port_min').src=tw_img3_src;
         console.log("change image to CHT version");
       break;
     case 1:
         document.getElementById('slideshowImage1').src=eng_img1_src;
-        document.getElementById('lang_port_min').src=eng_img2_src;
+        document.getElementById('lang_port').src=eng_img2_src;
+        document.getElementById('lang_port_min').src=eng_img3_src;
         console.log("change image to ENG version");
       break;
     case 2:
