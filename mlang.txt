@@ -41,8 +41,7 @@
       "lang_spec_sys": "作業系統",
       "lang_spec_win10": "Windows 10家用版(32位元)",
       "lang_spec_dim": "產品尺寸",
-      "lang_spec_dim_cont": "38mm(W) x 100mm(L) x 9.8mm(H)"
-      
+      "lang_spec_dim_cont": "38mm(W) x 100mm(L) x 9.8mm(H)"      
    },
    {
       "lang_title": "Welcome to EQL - PC Stick",
@@ -86,7 +85,6 @@
       "lang_spec_sys": "System",
       "lang_spec_win10": "Windows 10 Home (32bit)",
       "lang_spec_dim": "Dimension",
-      "lang_spec_dim_cont": "38mm(W) x 100mm(L) x 9.8mm(H)",
-     
+      "lang_spec_dim_cont": "38mm(W) x 100mm(L) x 9.8mm(H)"     
    }
 ]
