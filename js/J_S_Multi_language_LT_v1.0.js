@@ -126,7 +126,7 @@ function changeImageByLang(lang_index){
       break;
     case 1:
         document.getElementById('slideshowImage1').src=eng_img1_src;
-        document.getElementById('lang_port_min').src=eng_img1_src;
+        document.getElementById('lang_port_min').src=eng_img2_src;
         console.log("change image to ENG version");
       break;
     case 2:
